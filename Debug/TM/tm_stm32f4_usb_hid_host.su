@@ -1,0 +1,5 @@
+tm_stm32f4_usb_hid_host.c:29:6:TM_USB_HIDHOST_Init	16	static
+tm_stm32f4_usb_hid_host.c:44:25:TM_USB_HIDHOST_Process	8	static
+tm_stm32f4_usb_hid_host.c:57:25:TM_USB_HIDHOST_Device	4	static
+tm_stm32f4_usb_hid_host.c:65:25:TM_USB_HIDHOST_ReadKeyboard	16	static
+tm_stm32f4_usb_hid_host.c:85:25:TM_USB_HIDHOST_ReadMouse	16	static

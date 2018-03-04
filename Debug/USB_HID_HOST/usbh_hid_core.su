@@ -1,0 +1,10 @@
+usbh_hid_core.c:184:20:USBH_HID_InterfaceInit	40	static
+usbh_hid_core.c:284:6:USBH_HID_InterfaceDeInit	16	static
+usbh_hid_core.c:314:20:USBH_HID_ClassRequest	32	static
+usbh_hid_core.c:390:20:USBH_HID_Handle	24	static
+usbh_hid_core.c:469:20:USBH_Get_HID_ReportDescriptor	40	static
+usbh_hid_core.c:502:20:USBH_Get_HID_Descriptor	40	static
+usbh_hid_core.c:528:20:USBH_Set_Idle	24	static
+usbh_hid_core.c:558:13:USBH_Set_Report	24	static
+usbh_hid_core.c:587:20:USBH_Set_Protocol	24	static
+usbh_hid_core.c:623:14:USBH_ParseHIDDesc	16	static

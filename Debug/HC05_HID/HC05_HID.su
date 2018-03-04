@@ -1,0 +1,4 @@
+tm_stm32f4_usart.h:501:22:TM_USART_Putc	16	static
+HC05_HID.c:4:6:HC05_HID_COM_Init	8	static
+HC05_HID.c:10:6:HC05_HID_SendKeyboardState	24	static
+HC05_HID.c:25:6:HC05_HID_SendMouseState	16	static
